@@ -33,20 +33,20 @@ The dataset (current version 1.0) can be downloaded from [onedrive](https://dong
 The dataset consists of two genders, and the folder hierarchy is as follows: 
 
 ```markdown
-SHADER-rx_x				# dataset root folder
-├── (fe)maleBatch001			# batch folder
+SHADER-rx_x					# dataset root folder
+├── (fe)maleBatch001				# batch folder
 |	├── 0000				# sample folder
 |	|	├── dressed             	# clothed image folder
 |	|	|	├── Image0000.png	# clothed images
 |	|	|	...
 |	|	|	├── Image0198.png
 |	|	|	└── Image0199.png
-|	|	├── naked               # ground-truth image folder
+|	|	├── naked               	# ground-truth image folder
 |	|	|	├── Image0000.png	# ground-truth images
 |	|	|	...
 |	|	|	├── Image0198.png
 |	|	|	└── Image0199.png
-|	|	└── gt0000.pkl          # other ground-truth parameters
+|	|	└── gt0000.pkl          	# other ground-truth parameters
 |	...
 |	├── 0048
 |	└── 0049
