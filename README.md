@@ -24,7 +24,13 @@ If you are interested in using our dataset and find it useful in your research, 
 
 The SHADER dataset is a synthetic dataset that consists of 300,000 paired ground-truth naked and dressed images of 1,500 synthetic humans with different body shapes, poses, garments, skin tones, and backgrounds. It can be used to train neural networks for estimating shapes of human bodies under wide clothing.
 
-The dataset (current version 1.0) can be downloaded from [onedrive](https://dongguk0-my.sharepoint.com/:u:/g/personal/yc_lu_dongguk_edu/ETpL1JV8ZqpDsY-BpE3eVXkBXYcBmDwZ5w12whgIq-3a_Q).
+The dataset (current version 1.1) can be downloaded from [onedrive](https://dongguk0-my.sharepoint.com/:f:/g/personal/yc_lu_dongguk_edu/Etj4ObyR-ctFhHRZA4y8j7kBSkl5fSLGhMTSCrO2ZIRy5Q).
+
+Update history:
+
+2020-11:	Initial release.
+
+2021-03:	Update bad samples in MaleBatch003, 004, 005, and 011.
 
 
 
